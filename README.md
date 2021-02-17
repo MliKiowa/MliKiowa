@@ -9,4 +9,4 @@ Blog: http://blog.yundreams.cn
 
 
 [![](https://data.jsdelivr.com/v1/package/gh/MliKiowa/MliKiowa/badge)](https://www.jsdelivr.com/package/gh/MliKiowa/MliKiowa)
-[![](https://img.shields.io/github/license/MliKiowa/MliKiowa)](https://github.com/MliKiowa/kaygb/blob/master/LICENSE)
+[![](https://img.shields.io/github/license/MliKiowa/MliKiowa)](https://github.com/MliKiowa/MliKiowa/blob/master/LICENSE)
