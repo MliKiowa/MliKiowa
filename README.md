@@ -11,10 +11,4 @@ Hi,I'm MliKiowa, a free developer.
 [![Github Badge](https://img.shields.io/badge/-Mlikiowa-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Mlikiowa/)](https://www.github.com/Mlikiowa/)
 [![](https://img.shields.io/github/license/MliKiowa/MliKiowa)](https://github.com/MliKiowa/MliKiowa/blob/master/LICENSE)
 
-### Site
-
-Home: https://www.moennar.cn
-
-Blog: https://blog.moennar.cn
-
 
