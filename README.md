@@ -4,10 +4,5 @@
 𝑰 𝒘𝒐𝒏'𝒕 𝒕𝒆𝒍𝒍 𝒚𝒐𝒖. 
 <h2><img src="https://media0.giphy.com/media/RiguAmVHsaJqmHEKtU/200w.webp" width="50"> Donation</h2> 
 
-
-✿ *𝓐𝓵𝓲𝓹𝓪𝔂𝓘𝓭* : mlikiowa707
-
-❀ *𝓦𝓮𝓬𝓱𝓪𝓽𝓘𝓭* : Mlikiowa
 <h2></h2> 
 <p align="left">⌘ 𝒯𝒽𝒶𝓉'𝓈 𝒶𝓁𝓁 𝓉𝒽𝑒𝓇𝑒</p>
-<p align="right">☯ Ɨt ᗷ𝕪 </p>
